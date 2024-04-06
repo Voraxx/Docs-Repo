@@ -10,8 +10,7 @@ The title, an optional body and an optional footer.
 A title consists of a descriptive tag, representing the type of the message, and the subject.
 
 The layout is as follows:
-<code>
-type: Subject
+<code>type: Subject
 body
 footer
 </code>
