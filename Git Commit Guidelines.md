@@ -11,11 +11,13 @@ A title consists of a descriptive tag, representing the type of the message, and
 
 The layout is as follows:
 <code>
+
 type: Subject
  
 body
  
 footer
+
 </code>
 
 
